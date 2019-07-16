@@ -29,6 +29,7 @@ p{
     text-decoration: dotted;
     text-shadow: 4px 4px 4px blue;
     text-transform: lowercase;
+    text-color: red;
 }
 
 /*body{
